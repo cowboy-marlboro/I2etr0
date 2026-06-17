@@ -284,7 +284,6 @@ Current Status:
 ## 🔮 Current Missions
 
 - 🚀 Building CI/CD pipelines
-- ☸️ Managing Kubernetes workloads
 - 🐳 Containerizing applications
 - 📈 Monitoring infrastructure
 - 🤖 Automating repetitive tasks
@@ -315,8 +314,8 @@ Current Status:
 [ SYSTEM ONLINE ]
 
 Docker ............ OK
-Kubernetes ........ OK
-GitHub Actions .... OK
+Ansible ........... OK
+CI/CD ............. OK
 Linux ............. OK
 Coffee ............ CRITICAL
 
