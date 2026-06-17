@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## DevOps Engineer 
+  ## Hi! I'm DevOps Engineer 
   ![HELLO](https://media.tenor.com/vnkvXD3l-vgAAAAi/happy-cat.gif)
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Automating+Everything...;Building+Reliable+Infrastructure;CI%2FCD+Enjoyer;Linux+%2B+Cloud+%2B+Containers" />
@@ -83,6 +83,8 @@ $ current_interests:
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prometheus"    alt="prometheus logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch"    alt="elasticsearch logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=grafana"       alt="grafana logo"  />
   <img width="12" />
 
@@ -95,8 +97,6 @@ $ current_interests:
   <img src="https://skillicons.dev/icons?i=neovim" alt="neovim logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vi" alt="vi logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="pycharm logo"  />
   <img width="12" />
