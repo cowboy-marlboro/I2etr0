@@ -109,7 +109,7 @@ $ SYSTEM STATUS
 Linux ................. ONLINE
 Docker ................ ONLINE
 Docker Compose ........ ONLINE
-GitHub Actions ........ ONLINE
+CI/CD ................. ONLINE
 Ansible ............... ONLINE
 Prometheus ............ ONLINE
 Grafana ............... ONLINE
